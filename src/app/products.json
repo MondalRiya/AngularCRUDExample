@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "keyboard",
+      "color": "grey"
+    },
+    {
+      "id": 3,
+      "name": "bag",
+      "color": "green"
+    },
+    {
+      "name": "pen",
+      "color": "blue",
+      "id": 5
+    },
+    {
+      "name": "phone",
+      "color": "black",
+      "id": 6
+    },
+    {
+      "name": "t shirt",
+      "color": "yellow",
+      "id": 7
+    }
+  ]
+}
